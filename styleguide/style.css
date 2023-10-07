@@ -1,0 +1,40 @@
+header{
+    margin-left: 50px;
+}
+
+body{
+    background-color: #d3a0ff;
+}
+
+#titleht{
+    color: #2e245e;
+}
+nav{
+    margin-left: 1000px;
+}
+#options{
+    color: #616060;
+    margin-left: 50px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+li:hover{
+    margin: 40px;
+    border: 2px solid #2e245e;
+}
+li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+#cart{
+    display: inline;
+    justify-content: end;
+}
